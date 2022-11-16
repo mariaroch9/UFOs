@@ -29,8 +29,8 @@ else {
   }
   
 ```
-/Users/Rochelle/Desktop/JavaScript_Bootstrap_UFOs/UFOs/static/css/images/Without_filters.png
 
+/Users/Rochelle/Desktop/JavaScript_Bootstrap_UFOs/UFOs/static/css/images/Without_filters.png
 
 The above image is without any filters. The user can view the entire table since they haven’t put any search criteria. 
 
