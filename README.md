@@ -31,12 +31,13 @@ else {
 ```
 
 ```
-/Users/Rochelle/Desktop/Screen Shot 2022-11-16 at 4.19.44 PM.png
+/Users/Rochelle/Desktop/JavaScript_Bootstrap_UFOs/UFOs/static/css/images/Screen Shot 2022-11-16 at 4.19.44 PM.png
 
 ```
 The above image is without any filters. The user can view the entire table since they haven’t put any search criteria. 
 ```
- /Users/Rochelle/Desktop/Screen Shot 2022-11-16 at 4.19.01 PM.png
+/Users/Rochelle/Desktop/JavaScript_Bootstrap_UFOs/UFOs/static/css/images/Screen Shot 2022-11-16 at 4.19.01 PM.png
+
 ```
 This image is with two filters in place, the shape is set to circle and the city is set to mason. There is one entry corresponding to these filter criteria. 
 # Summary: 
@@ -44,10 +45,11 @@ To conclude, this is quite an improvement over the previous design. Earlier the 
 However, this system has a potential drawback, in that the user must be accurate with the spellings. If they type in the wrong spelling or even the wrong case is used the search doesn’t yield any results. In the below image, the name of the city is typed in Sentence case (Benton) in the search bar and it hasn't brought up any entry. When the city name is typed in in lowercase (benton), we get one entry. 
 
 ```
-/Users/Rochelle/Desktop/Screen Shot 2022-11-16 at 4.29.39 PM.png
+
+/Users/Rochelle/Desktop/JavaScript_Bootstrap_UFOs/UFOs/static/css/images/Screen Shot 2022-11-16 at 4.29.39 PM.png
 ```
 ```
-/Users/Rochelle/Desktop/Screen Shot 2022-11-16 at 4.33.13 PM.png
+/Users/Rochelle/Desktop/JavaScript_Bootstrap_UFOs/UFOs/static/css/images/Screen Shot 2022-11-16 at 4.33.13 PM.png
 ```
  
 
