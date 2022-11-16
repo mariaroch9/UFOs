@@ -1,6 +1,6 @@
 # Overview of Project: 
 ## Background
-    Dana’s webpage and dynamic table are working as intended, but she wanted us to provide a more in-depth analysis of UFO sightings. She wanted the users to have the freedom to filter based on multiple criteria at the same time. Apart from the existing date filter, we added additional filters for the city, state, country, and shape.
+Dana’s webpage and dynamic table are working as intended, but she wanted us to provide a more in-depth analysis of UFO sightings. She wanted the users to have the freedom to filter based on multiple criteria at the same time. Apart from the existing date filter, we added additional filters for the city, state, country, and shape.
 
 ## Purpose 
 To create a web page and dynamic table so that users can filter the data not just on the date criteria but also on the city, state, country, and shape. 
@@ -29,28 +29,22 @@ else {
   }
   
 ```
+/Users/Rochelle/Desktop/JavaScript_Bootstrap_UFOs/UFOs/static/css/images/Without_filters.png
 
-```
-/Users/Rochelle/Desktop/JavaScript_Bootstrap_UFOs/UFOs/static/css/images/Screen Shot 2022-11-16 at 4.19.44 PM.png
 
-```
 The above image is without any filters. The user can view the entire table since they haven’t put any search criteria. 
-```
-/Users/Rochelle/Desktop/JavaScript_Bootstrap_UFOs/UFOs/static/css/images/Screen Shot 2022-11-16 at 4.19.01 PM.png
 
-```
+
+/Users/Rochelle/Desktop/JavaScript_Bootstrap_UFOs/UFOs/static/css/images/With filters.png
+
 This image is with two filters in place, the shape is set to circle and the city is set to mason. There is one entry corresponding to these filter criteria. 
+
 # Summary: 
 To conclude, this is quite an improvement over the previous design. Earlier the user could filter the UFO sightings based on the date filter only. Now we’ve added additional filters giving the user the opportunity to be more specific and narrow their search down. 
 However, this system has a potential drawback, in that the user must be accurate with the spellings. If they type in the wrong spelling or even the wrong case is used the search doesn’t yield any results. In the below image, the name of the city is typed in Sentence case (Benton) in the search bar and it hasn't brought up any entry. When the city name is typed in in lowercase (benton), we get one entry. 
+/Users/Rochelle/Desktop/JavaScript_Bootstrap_UFOs/UFOs/static/css/images/Filter_Sentencecase.png
 
-```
-
-/Users/Rochelle/Desktop/JavaScript_Bootstrap_UFOs/UFOs/static/css/images/Screen Shot 2022-11-16 at 4.29.39 PM.png
-```
-```
-/Users/Rochelle/Desktop/JavaScript_Bootstrap_UFOs/UFOs/static/css/images/Screen Shot 2022-11-16 at 4.33.13 PM.png
-```
+/Users/Rochelle/Desktop/JavaScript_Bootstrap_UFOs/UFOs/static/css/images/Filter_lowercase.png
  
 
 # Recommendations:
